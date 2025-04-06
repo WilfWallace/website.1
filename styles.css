@@ -2,12 +2,12 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #42433f;
+	background-color: #f4e9cd;
 }
 .Intro {
-	color: #367588;
+	color: #101d42;
 }
 
 .Iteration{
-	color: red;
+	color: #0e79b2;
 }
