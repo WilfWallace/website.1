@@ -12,6 +12,7 @@ body {
 	border-radius: 2px;
 	position: relative;
   	left: 30px;
+	padding: 5px;
 }
 
 .Iteration{
@@ -23,4 +24,5 @@ body {
 	border: 4px solid #A599B5
 	position: relative;
   	left: 30px;
+	padding: 5px;
 }
