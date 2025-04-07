@@ -13,6 +13,7 @@ body {
 	margin-left: 300px;
 	margin-right: 300px;
 	margin-top: 20px;
+	line-height: 0.8;
 }
 
 .Iteration{
@@ -28,4 +29,5 @@ body {
 	margin-left: 280px;
 	margin-right: 280px;
 	margin-top: 20px;
+	line-height: 0.5
 }
