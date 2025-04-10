@@ -26,7 +26,6 @@ body {
 	text-align: center;
 	border: 3px solid #0E79B2;
 	border-radius: 8px;
-	padding: 2px;
 	margin-left: 280px;
 	margin-right: 280px;
 	margin-top: 20px;
@@ -42,6 +41,8 @@ body {
 	transition-duration: 0.4s;
 	margin-top: 1px;
 	margin-bottom: 0px;
+	position: relative;
+	left: 0px;
 }
 
 .button:hover{
