@@ -25,7 +25,7 @@ body {
 }
 
 .Iteration{
-	color: White;
+	color: Black;
 }
 
 .Projects{
@@ -45,7 +45,6 @@ body {
 	border: 3px solid #0e79b2;
 	border-left-style: none ;
 	border-bottom-style: none;
-	border-radius: 8px;
 	color: #101d42;
 	padding: 16px 16px;
 	cursor: pointer;
@@ -56,5 +55,6 @@ body {
 
 .button:hover{
 	background-color: #101d42;
+	border-color: #101d42;
 	color: #f9f5e3;
 }
