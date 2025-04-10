@@ -43,6 +43,7 @@ body {
 	margin-bottom: 0px;
 	position: relative;
 	left: 0px;
+	float: left;
 }
 
 .button:hover{
