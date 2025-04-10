@@ -7,13 +7,16 @@ body {
 .Intro {
 	background-color: #f9f5e3;
 	color: #101d42;
-	text-align: center;
 	border: 4px solid #0E79B2;
 	border-radius: 8px;
 	padding: 1px;
 	margin-left: 300px;
 	margin-right: 300px;
 	margin-top: 20px;
+}
+
+.centre{
+	text-align: center;
 }
 
 .Iteration{
