@@ -20,6 +20,10 @@ body {
 	text-align: center;
 }
 
+.left{
+	text-allign: left;
+}
+
 .Iteration{
 	color: #a599b5;
 }
@@ -44,7 +48,6 @@ body {
 	transition-duration: 0.4s;
 	margin-top: 1px;
 	margin-bottom: 0px;
-	float: left;
 }
 
 .button:hover{
