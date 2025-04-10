@@ -36,7 +36,6 @@ body {
 .button{
 	background-color: #f9f5e3;
 	border: 3px solid #0e79b2;
-	border-radius: 3px;
 	color: #101d42;
 	padding: 16px 16px;
 	cursor: pointer;
