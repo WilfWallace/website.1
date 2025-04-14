@@ -6,8 +6,16 @@
     <title>Website example</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
     <script>
+        let moreLess = true;
         function buttonclicked() {
-            document.getElementById("Solar more/less").innerHTML = "This project was undertaken initially as coursework during my A-levels and has been updated/developed many times since. The code uses a weather API to create a prediction for how much energy the users solar panels are likely to generate. It uses this information along with the size of the users battery and their daily energy usage to calculate an optimum energy plan that saves the user money.";
+            if moreLess (true) {
+                document.getElementById("Solar more/less").innerHTML = "This project was undertaken initially as coursework during my A-levels and has been updated/developed many times since. The code uses a weather API to create a prediction for how much energy the users solar panels are likely to generate. It uses this information along with the size of the users battery and their daily energy usage to calculate an optimum energy plan that saves the user money.";
+                moreLess = false;
+            }
+            if moreLess (false) {
+                document.getElementById("Solar more/less").innerHTML = "";
+                moreLess = true;
+            }
         }
     </script>
 </head>
