@@ -10,5 +10,3 @@ function buttonclicked() {
     moreLess = true;
   }
 }
-document.querySelector("h3").style.color = "yellow";
-document.querySelector(class = "projects").style.color = "yellow";
