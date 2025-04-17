@@ -11,4 +11,4 @@ function buttonclicked() {
   }
 }
 const into = document.querySelector(".intro");
-intro.style.backgroundColor = '#101d42';
+intro.style.backgroundColor = 'green';
