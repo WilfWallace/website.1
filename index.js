@@ -10,3 +10,4 @@ function buttonclicked() {
     moreLess = true;
   }
 }
+document.queryselector("h3").style.color = "green";
