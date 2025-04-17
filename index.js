@@ -10,3 +10,5 @@ function buttonclicked() {
     moreLess = true;
   }
 }
+const into = document.querySelector(".intro");
+intro.style.backgroundColor = '#101d42';
