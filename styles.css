@@ -68,6 +68,9 @@ body {
 	height: 8vh;
 	padding: 0vh 2vw;
 	border-right: 0.2vw solid black;
+	border-top: hidden;
+	border-bottom: none;
+	border-lef: none;
 }
 
 .menuButt:hover{
