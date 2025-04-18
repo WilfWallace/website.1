@@ -2,7 +2,7 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #39382D;
+	background-color: #101C42;
 }
 .Intro {
 	background-color: #f9f5e3;
@@ -58,13 +58,14 @@ body {
 	z-index: 50;
 	border-radius: 0px;
 	width: 100%;
-	background-color: #203983;
+	background-color: #EBD4CB;
 }
 
 .menuButt{
-	background-color: #203983;
+	background-color: #EBD4CB;
+	float: left;
 }
 
 .menuButt:hover{
-	background-color: #203A83;
+	background-color: #E8CEC4;
 }
