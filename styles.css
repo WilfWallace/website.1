@@ -2,7 +2,7 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #101d42;
+	background-color: #050609;
 }
 .Intro {
 	background-color: #f9f5e3;
@@ -61,5 +61,5 @@ body {
 }
 
 .menuButt{
-	background-color: #f9f5e3;
+	background-color: #101d42;
 }
