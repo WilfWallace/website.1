@@ -50,3 +50,7 @@ body {
 	border-color: #101d42;
 	color: #f9f5e3;
 }
+
+.menu{
+	float: left;
+}
