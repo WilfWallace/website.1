@@ -2,7 +2,7 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #050609;
+	background-color: #39382D;
 }
 .Intro {
 	background-color: #f9f5e3;
@@ -58,10 +58,11 @@ body {
 	z-index: 50;
 	border-radius: 0px;
 	width: 100%;
+	background-color: #203983;
 }
 
 .menuButt{
-	background-color: #101d42;
+	background-color: #203983;
 }
 
 .menuButt:hover{
