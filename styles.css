@@ -56,14 +56,19 @@ body {
 	position: fixed;
 	top: 0;
 	z-index: 50;
+	border: 1px solid black;
+	border-top-style: hidden;
+	border-bottom-style: hidden;
 	border-radius: 0px;
 	width: 100%;
-	background-color: #EBD4CB;
+	height: 8vh;
+	background-color: white;
 }
 
 .menuButt{
-	background-color: #EBD4CB;
+	background-color: white;
 	float: left;
+	height: 8vh;
 }
 
 .menuButt:hover{
