@@ -69,8 +69,8 @@ body {
 	padding: 0vh 2vw;
 	border-right: 0.2vw solid black;
 	border-top: hidden;
-	border-bottom: none;
-	border-lef: none;
+	border-bottom: hidden;
+	border-lef: hidden;
 }
 
 .menuButt:hover{
