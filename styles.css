@@ -57,6 +57,7 @@ body {
 	top: 0;
 	z-index: 50;
 	border-radius: 0px;
+	border: hidden;
 	width: 100%;
 	height: 8vh;
 	background-color: white;
@@ -67,7 +68,7 @@ body {
 	float: left;
 	height: 8vh;
 	padding: 0vh 2vw;
-	border-right: 0.2vw solid black;
+	border-right: 0.1vw solid black;
 	border-top: hidden;
 	border-bottom: hidden;
 	border-lef: hidden;
