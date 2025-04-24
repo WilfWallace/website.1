@@ -7,9 +7,8 @@ body {
 }
 .Intro {
 	background-color: #272B27;
-	color: #101d42;
 	text-align: center;
-	border: 4px solid #101d42;
+	border: 4px solid #F4EDED;
 	border-left: hidden;
 	border-right: hidden;
 	padding: 3vh 2vh;
