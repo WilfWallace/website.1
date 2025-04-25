@@ -8,7 +8,7 @@ body {
 .Intro {
 	background-color: #272B27;
 	text-align: center;
-	border: 1vh solid #F4EDED;
+	border: 0.4vh solid #F4EDED;
 	border-left: hidden;
 	border-right: hidden;
 	padding: 3vh 2vh;
@@ -20,11 +20,11 @@ body {
 	color: #F4EDED;
 	text-align: center;
 	padding: 2vh 4vw;
-	border: 1vh solid #F4EDED;
+	border: 0.4vh solid #F4EDED;
 	border-left: hidden;
-	margin-left: 20vw;
+	margin-left: 10vw;
 	border-right: hidden;
-	margin-right: 20vw;
+	margin-right: 10vw;
 	margin-top: 11vh;
 }
 
