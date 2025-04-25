@@ -70,5 +70,6 @@ body {
 }
 
 .menuButt:hover{
-	background-color: #E8CEC4;
+	background-color: #272B27;
+	color: #F4EDED;
 }
