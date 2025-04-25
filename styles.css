@@ -68,9 +68,10 @@ body {
 	border-top: hidden;
 	border-bottom: 0.05vh solid #272B27;
 	border-left: hidden;
+	cursor: pointer;
 }
 
 .menuButt:hover{
-	background-color: #272B27;
+	background-color: #303630;
 	color: #F4EDED;
 }
