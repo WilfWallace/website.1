@@ -29,9 +29,7 @@ body {
 }
 
 .button{
-	background-color: #f9f5e3;
-	border: 3px solid #0e79b2;
-	color: #101d42;
+	border: 3px solid #F4EDED;
 	padding: 8px 8px;
 	border-radius: 5px;
 	cursor: pointer;
@@ -41,9 +39,7 @@ body {
 }
 
 .button:hover{
-	background-color: #101d42;
-	border-color: #101d42;
-	color: #f9f5e3;
+	background-color: #303630;
 }
 
 .menu{
