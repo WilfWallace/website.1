@@ -28,7 +28,7 @@ body {
 	margin-top: 11vh;
 }
 
-.button{
+.readMoreLessButton{
 	border: 0.1vw solid #F4EDED;
 	padding: 1vh 1vw;
 	border-radius: 2vw;
@@ -37,7 +37,7 @@ body {
 	margin-top: 0.5vh;
 }
 
-.button:hover{
+.readMoreLessButton:hover{
 	background-color: #303630;
 	color: #F4EDED;
 }
