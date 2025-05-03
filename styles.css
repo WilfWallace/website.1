@@ -26,6 +26,7 @@ body {
 	border-right: hidden;
 	margin-right: 10vw;
 	margin-top: 11vh;
+	border-bottom: hidden;
 }
 
 .readMoreLessButton{
