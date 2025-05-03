@@ -15,7 +15,7 @@ body {
 	margin-top: 12vh;
 }
 
-div {
+.content {
 	background-color: #272B27;
 	color: #F4EDED;
 	text-align: center;
