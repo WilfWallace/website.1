@@ -12,13 +12,13 @@ function solarbuttonclicked() {
 }
 let renishawmoreless = true
 function renishawbuttonclicked() {
-  if (renishawmoreLess) {
+  if (renishawmoreless) {
     document.getElementById("renishaw m/l").innerHTML = "During this work experience, I spent a week working in a team of 5 to design and produce a prototype of a green energy product. The product my team design was a speed bumb that converted GPE of the car into KE energy in the motor. My role in this project was to design the prototype using CAD software and 3D print it. At the end of the week, we presented our prototypes to the other teams and some renishaw employees. The main thing I took away from this week was how to work effectively in a team and how to present my ideas and findings to a crowd.";
     document.getElementById("renishaw m/l button").innerHTML = "Read Less";
-    renishawmoreLess = false;
+    renishawmoreless = false;
   } else {
     document.getElementById("renishaw m/l").innerHTML = "";
     document.getElementById("renishaw m/l button").innerHTML = "Read more";
-    renishawmoreLess = true;
+    renishawmoreless = true;
   }
 }
