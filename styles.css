@@ -36,28 +36,12 @@ ul {
 	text-align: left;
 }
 
-.achievements1 {
+.achievements {
 	background-color: #272B27;
 	color: #F4EDED;
 	padding: 2vh 4vw;
 	border: 0.4vh solid #F4EDED;
 	margin-top: 11vh;
-	margin-left: 5vw;
-	position: absolute;
-	left: 0;
-	top: 0;
-}
-
-.achievements2 {
-	background-color: #272B27;
-	color: #F4EDED;
-	padding: 2vh 4vw;
-	border: 0.4vh solid #F4EDED;
-	margin-top: 11vh;
-	margin-right: 5vw;
-	position: absolute;
-	right: 0;
-	top: 0:
 }
 
 .readMoreLessButton{
