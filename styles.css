@@ -98,3 +98,10 @@ ul {
 	background-color: #303630;
 	color: #F4EDED;
 }
+
+.menu-image{
+	position: relative; 
+	right: 0; 
+	width: 8vh; 
+	height: 8vh;
+}
