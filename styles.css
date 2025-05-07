@@ -100,7 +100,7 @@ ul {
 }
 
 .menu-image{
-	position: relative; 
+	position: absolute; 
 	right: 0; 
 	width: 8vh; 
 	height: 8vh;
