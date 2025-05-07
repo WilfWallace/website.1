@@ -41,19 +41,20 @@ ul {
 	color: #F4EDED;
 	padding: 2vh 4vw;
 	border: 0.4vh solid #F4EDED;
+	border-radius: 2vw;
 	margin-top: 11vh;
 }
 
 .left {
 	position: absolute;
 	left: 0;
-	margin-left: 5vw;
+	margin-left: 10vw;
 }
 
 .right{
 	position: absolute;
 	right: 0;
-	margin-right: 5vw;
+	margin-right: 10vw;
 }
 
 .readMoreLessButton{
