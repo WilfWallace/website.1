@@ -43,8 +43,8 @@ ul {
 	border: 0.4vh solid #F4EDED;
 	margin-top: 11vh;
 	position: absolute;
-	left: 30vw;
-	top: 0vh;
+	left: 0;
+	top: 0;
 }
 
 .achievements2 {
@@ -54,8 +54,8 @@ ul {
 	border: 0.4vh solid #F4EDED;
 	margin-top: 11vh;
 	position: absolute;
-	left: 70vw;
-	top: 0vh:
+	left: 0;
+	top: 0:
 }
 
 .readMoreLessButton{
