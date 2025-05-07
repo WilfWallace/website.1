@@ -42,8 +42,9 @@ ul {
 	padding: 2vh 4vw;
 	border: 0.4vh solid #F4EDED;
 	margin-top: 11vh;
-	position: relative;
+	position: absolute;
 	left: 30vw;
+	top: 0vh;
 }
 
 .achievements2 {
@@ -52,8 +53,9 @@ ul {
 	padding: 2vh 4vw;
 	border: 0.4vh solid #F4EDED;
 	margin-top: 11vh;
-	position: relative;
+	position: absolute;
 	left: 70vw;
+	top: 0vh:
 }
 
 .readMoreLessButton{
