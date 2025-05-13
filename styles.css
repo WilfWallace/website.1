@@ -107,5 +107,16 @@ ul {
 }
 
 .formatButtons{
-	margin-top: 12vh;
+	margin-top: 2vh;
+	border: 0.1vw solid #F4EDED;
+	padding: 1vh 1vw;
+	border-radius: 2vw;
+	cursor: pointer;
+	transition-duration: 0.4s;
+	position: static;
+}
+
+.formatButtons:hover{
+	background-color: #303630;
+	color: #F4EDED;
 }
