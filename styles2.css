@@ -22,6 +22,8 @@ body{
   display: block;
   width: 15vw;
   background-color: #F4EDED;
+  border: hidden;
+  padding: 3vh 0.5vw;
 }
 
 .menu-image{
