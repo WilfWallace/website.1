@@ -1,1 +1,19 @@
+body{
+  background-color: #F5F5F5;
+  text-align: center;
+  text-color: #070707;
+}
 
+h1{
+  text-align: centre;
+}
+
+div{
+  padding: 2vh 4vw;
+  border: 0.4vh solid #19647E;
+  border-radius: 1vh;
+}
+
+.menu{
+  
+}
