@@ -33,3 +33,8 @@ body{
   width: 15vw;
   height: 15vw;
 }
+
+.formatButtons{
+  position: absolute;
+  right: 30vw;
+}
