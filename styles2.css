@@ -8,31 +8,33 @@ h1{
   text-align: centre;
 }
 
-div{
+.something{
   padding: 2vh 4vw;
   border: 0.4vh solid #19647E;
   border-radius: 1vh;
 }
 
 .menu{
+  background-color: #F4EDED;
   position: fixed;
   left: 0;
   border-right: 0.4vw solid #19647E;
   height: 100%;
-  width: 20vw;
+  width: 15vw;
 }
 
 .menuButt{
   display: block;
   position: fixed;
   left: 0;
-  width: 20vw;
+  width: 15vw;
+  background-color: #F4EDED;
 }
 
 .menu-image{
   position: fixed;
   bottom: 0;
   left: 0;
-  width: 20vw;
-  height: 20vw;
+  width: 15vw;
+  height: 15vw;
 }
