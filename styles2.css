@@ -22,6 +22,7 @@ body{
 }
 
 .menuButt{
+  position: relative;
   display: block;
   width: 15vw;
   background-color: #F4EDED;
