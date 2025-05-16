@@ -1,12 +1,7 @@
 body{
   background-color: #F5F5F5;
   text-color: #070707;
-}
-
-.something{
-  padding: 2vh 4vw;
-  border: 0.4vh solid #19647E;
-  border-radius: 1vh;
+  text-align: center;
 }
 
 .menu{
@@ -43,6 +38,28 @@ body{
   left: 20vw;
 }
 
-.fotmatButtonsDiv{
-  
+.Intro {
+	background-color: #F5F5F5;
+	border: 0.4vh solid #141414;
+	border-left: hidden;
+	border-right: hidden;
+	padding: 3vh 2vh;
+  position: relative;
+  left: 20vw;
+  color: #141414;
+}
+
+.content {
+	background-color: #F5F5F5;
+	color: #141414;
+	text-align: center;
+	padding: 2vh 4vw;
+	border: 0.4vh solid #141414;
+	border-left: hidden;
+	margin-left: 10vw;
+	border-right: hidden;
+	margin-right: 10vw;
+	margin-top: 11vh;
+  position: relative;
+  left: 20vw;
 }
