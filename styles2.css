@@ -35,6 +35,10 @@ body{
 }
 
 .formatButtons{
-  position: absolute;
-  right: 20vw;
+  position: relative;
+  left: 20vw;
+}
+
+.fotmatButtonsDiv{
+  
 }
