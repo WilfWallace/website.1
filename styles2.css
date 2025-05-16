@@ -45,9 +45,9 @@ body{
   border-right: hidden;
   padding: 3vh 2vh;
   position: relative;
-  left: 20vw;
+  left: 15vw;
   color: #141414;
-  width: 80vw;
+  width: 85vw;
 }
 
 .content {
@@ -62,6 +62,6 @@ body{
   margin-right: 10vw;
   margin-top: 11vh;
   position: relative;
-  left: 20vw;
-  width: 80vw;
+  left: 15vw;
+  width: 85vw;
 }
