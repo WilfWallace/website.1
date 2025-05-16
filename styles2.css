@@ -9,7 +9,7 @@ body{
   position: fixed;
   left: 0;
   top: 0;
-  border-right: 0.4vw solid #19647E;
+  border-right: 0.4vw solid #141414;
   height: 100%;
   width: 15vw;
   margin-top: 0;
@@ -47,6 +47,7 @@ body{
   position: relative;
   left: 20vw;
   color: #141414;
+  width: 80vw;
 }
 
 .content {
@@ -62,4 +63,5 @@ body{
   margin-top: 11vh;
   position: relative;
   left: 20vw;
+  width: 80vw;
 }
