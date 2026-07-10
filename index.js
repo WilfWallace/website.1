@@ -19,8 +19,21 @@ function renishawbuttonclicked() {
     renishawmoreless = false;
   } else {
     document.getElementById("renishaw-ml").innerHTML = "";
-    document.getElementById("renishaw-ml-button").innerHTML = "Read more";
+    document.getElementById("renishaw-ml-button").innerHTML = "Read More";
     renishawmoreless = true;
+  }
+}
+
+let XORmoreless = true;
+function XORbuttonclicked(){
+	if(XORmoreless){
+		document.getElementById("XOR-ml").innerHTML = "During my time here I used an arduino to develop a moving platform that moved on an axis to move to within 10 micro metres of an inputted position and developed a workbook so that this could be given to work experience students in the future to really test their skills. I completed this in C++.";
+		document.getElementById("XOR-ml-button").innerHTML = "Read Less";
+		XORmoreless = false;
+	} else {
+	    document.getElementById("XOR-ml").innerHTML = "";
+	    document.getElementById("XOR-ml-button").innerHTML = "Read More";
+	    XORmoreless = true;
   }
 }
 
