@@ -38,6 +38,30 @@ ul {
 	text-align: left;
 }
 
+a:link {
+  color: #F4EDED;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #F2EDE0;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F2EDE0;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #F2EDE0;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 .achievements {
 	background-color: #272B27;
 	color: #F4EDED;
