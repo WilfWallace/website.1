@@ -13,9 +13,6 @@ body {
 	border-right: hidden;
 	padding: 3vh 2vh;
 	margin-top: 12vh;
-	position: absolute;
-	right: 0;
-	margin-right: 10vw;
 }
 
 .content {
