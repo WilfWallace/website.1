@@ -106,11 +106,12 @@ ul {
 	height: 8vh;
 }
 
-#mepic{
-	float: left;
-	margin-right: 5vw;
+.mepic{
 	width: 20vw;
 	height: auto;
+	position: absolute;
+	left: 0;
+	margin-left: 10vw;
 }
 
 .formatButtons{
