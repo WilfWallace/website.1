@@ -13,8 +13,8 @@ body {
 	border-right: hidden;
 	padding: 3vh 2vh;
 	margin-top: 12vh;
-	margin-right: 20vw;
-	margin-left: 20vw;
+	margin-right: 15vw;
+	margin-left: 15vw;
 }
 
 .content {
@@ -114,7 +114,7 @@ ul {
 	position: absolute;
 	left: 0;
 	margin-top: 1vh;
-	margin-left: 21vw;
+	margin-left: 1vw;
 }
 
 .formatButtons{
