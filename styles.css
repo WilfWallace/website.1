@@ -113,7 +113,8 @@ ul {
 	height: auto;
 	float: left;
 	margin-top: 1vh;
-	margin-left: 1vw;
+	margin-right: 15vw;
+	margin-left: 15vw;
 }
 
 .formatButtons{
