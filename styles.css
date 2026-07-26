@@ -13,6 +13,7 @@ body {
 	border-right: hidden;
 	padding: 3vh 2vh;
 	margin-top: 12vh;
+	margin-left: 5vw;
 }
 
 .content {
@@ -107,11 +108,11 @@ ul {
 }
 
 .mepic{
-	width: 20vw;
+	width: 14vw;
 	height: auto;
 	position: absolute;
 	left: 0;
-	margin-left: 10vw;
+	margin-left: 5vw;
 }
 
 .formatButtons{
