@@ -13,7 +13,6 @@ body {
 	border-right: hidden;
 	padding: 3vh 2vh;
 	margin-top: 12vh;
-	margin-left: 5vw;
 }
 
 .content {
@@ -112,7 +111,8 @@ ul {
 	height: auto;
 	position: absolute;
 	left: 0;
-	margin-left: 5vw;
+	margin-right: 2vw;
+	margin-top: 12vh;
 }
 
 .formatButtons{
