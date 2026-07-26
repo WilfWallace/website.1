@@ -111,10 +111,10 @@ ul {
 .mepic{
 	width: 8vw;
 	height: auto;
-	position: relative;
+	position: absolute;
 	left: 0;
 	margin-top: 1vh;
-	margin-left: 1;
+	margin-left: 1vw;
 }
 
 .formatButtons{
