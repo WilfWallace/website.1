@@ -110,8 +110,9 @@ ul {
 	width: 14vw;
 	height: auto;
 	position: absolute;
-	left: 2vw;
+	left: 0;
 	margin-top: 12vh;
+	margin-left: 8vw;
 }
 
 .formatButtons{
