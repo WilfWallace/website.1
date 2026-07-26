@@ -106,6 +106,13 @@ ul {
 	height: 8vh;
 }
 
+.mepic{
+	float: left;
+	margin-right: 5vw;
+	width: 20vw;
+	height: auto;
+}
+
 .formatButtons{
 	margin-top: 11vh;
 	border: 0.1vw solid #F4EDED;
