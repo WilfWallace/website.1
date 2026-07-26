@@ -110,14 +110,12 @@ ul {
 }
 
 .mepic{
-	width: 10vw;
+	width: 8vw;
 	height: auto;
 	position: absolute;
 	left: 0;
 	margin-top: 12vh;
 	margin-left: 6vw;
-	border: 0.4vh solid #F4EDED;
-	border-radius: 1vw;
 }
 
 .formatButtons{
