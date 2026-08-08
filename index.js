@@ -40,7 +40,7 @@ function XORbuttonclicked(){
 let sitemoreless = true;
 function sitebuttonclicked(){
 	if(sitemoreless){
-		document.getElementById("site more/less").innerHTML = "During my time here I used an arduino to develop a moving platform that moved on an axis to move to within 10 micro metres of an inputted position and developed a workbook so that this could be given to work experience students in the future to really test their skills. I completed this in C++.";
+		document.getElementById("site more/less").innerHTML = "I am developing this website as a side project just for a bit of fun and to learn some new skills such as html, CSS and javascript.";
 		document.getElementById("site m/l button").innerHTML = "Read Less";
 		sitemoreless = false;
 	} else {
