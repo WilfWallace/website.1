@@ -37,15 +37,15 @@ function XORbuttonclicked(){
   }
 }
 
-let sitemoreless = true:
+let sitemoreless = true;
 function sitebuttonclicked(){
 	if(sitemoreless){
 		document.getElementById("site more/less").innerHTML = "During my time here I used an arduino to develop a moving platform that moved on an axis to move to within 10 micro metres of an inputted position and developed a workbook so that this could be given to work experience students in the future to really test their skills. I completed this in C++.";
-		document.getElementById("site ml button").innerHTML = "Read Less";
+		document.getElementById("site m/l button").innerHTML = "Read Less";
 		sitemoreless = false;
 	} else {
 	    document.getElementById("site more/less").innerHTML = "";
-	    document.getElementById("site ml button").innerHTML = "Read More";
+	    document.getElementById("site m/l button").innerHTML = "Read More";
 	    sitemoreless = true;
   }
 }
