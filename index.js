@@ -1,7 +1,7 @@
 let solarmoreless = true;
 function solarbuttonclicked() {
   if (solarmoreless) {
-    document.getElementById("Solar more/less").innerHTML = "This project was undertaken initially as coursework during my A-levels and has been updated/developed many times since. The code uses a weather API to create a prediction for how much energy the users solar panels are likely to generate. It uses this information along with the size of the users battery and their daily energy usage to calculate an optimum energy plan that saves the user money.";
+    document.getElementById("Solar more/less").innerHTML = "This project was undertaken initially as coursework during my A-levels and has been updated/developed many times since. However, sadly GivEnergy has recently hidden API support behind a paywall so it is no longer in use or under development. The code uses a weather API to create a prediction for how much energy the users solar panels are likely to generate. It uses this information along with the size of the users battery and their daily energy usage to calculate an optimum energy plan that saves the user money. In the future I would have liked to write previous energy data to a file to be used later with AI methods I have learnt since coming to University.";
     document.getElementById("solar m/l button").innerHTML = "Read Less";
     solarmoreless = false;
   } else {
