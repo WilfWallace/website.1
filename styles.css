@@ -141,6 +141,24 @@ a:active {
 	margin-left: 1vw;
 }
 
+.tm1{
+	width: 15vw;
+	height: auto;
+	position:absolute;
+	left:0vw;
+	margin-top: 1vh;
+	margin-left: 1vw;
+}
+
+.tm2{
+	width: 15vw;
+	height: auto;
+	position:absolute;
+	right:15vw;
+	margin-top: 1vh;
+	margin-right: 1vw;
+}
+
 .formatButtons{
 	margin-top: 11vh;
 	border: 0.1vw solid #F4EDED;
