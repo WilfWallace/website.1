@@ -71,6 +71,16 @@ a:active {
 	margin-top: 11vh;
 }
 
+.achievementstoughmudder{
+	background-color: #272B27;
+	color: #F4EDED;
+	padding: 2vh 4vw;
+	border: 0.4vh solid #F4EDED;
+	border-radius: 1vw;
+	margin-top: 11vh;
+	text-align: centre;
+}
+
 .left {
 	position: absolute;
 	left: 0;
